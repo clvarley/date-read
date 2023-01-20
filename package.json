@@ -1,0 +1,22 @@
+{
+  "name": "date-read",
+  "version": "0.1.0",
+  "description": "Convert strings to dates with ease.",
+  "homepage": "https://github.com/clvarley/date-read",
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "parse"
+  ],
+  "main": "dist/index.js",
+  "types": "types/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "clvarley",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
